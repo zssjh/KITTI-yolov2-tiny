@@ -1,0 +1,7 @@
+appdirs==1.4.3
+jsonschema==2.6.0
+olefile==0.44
+packaging==16.8
+Pillow==4.1.0
+pyparsing==2.2.0
+six==1.10.0
